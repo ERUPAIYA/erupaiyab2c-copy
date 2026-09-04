@@ -1,7 +1,6 @@
 import 'package:e_rupaiya/features/home/views/home_search_view.dart';
 import 'package:go_router/go_router.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-
 import 'config/temporary_block_debug_config.dart';
 import 'constants/routes_constant.dart';
 import 'features/auth/controllers/auth_controller.dart';
